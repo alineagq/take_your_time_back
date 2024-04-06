@@ -5,9 +5,9 @@
 
 Aline
 
-- [] Introduction to Python
-- [] Introduction to SQL
-- [] Intermediate Python
-- [] Intermediate SQL
+- [ ] Introduction to Python
+- [ ] Introduction to SQL
+- [ ] Intermediate Python
+- [ ] Intermediate SQL
 
 ## Refinamento
